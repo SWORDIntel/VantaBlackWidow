@@ -236,9 +236,9 @@ Contributions are welcome! Please:
 3. Make your changes
 4. Submit a pull request
 
-## 📜 License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **SWORD Restricted Source Licence v1.0 (SRSL-1.0)**. Personal and non-commercial use is permitted under its terms; commercial exploitation requires a separate written agreement. See [LICENSE](LICENSE).
 
 ## 🙏 Acknowledgments
 
